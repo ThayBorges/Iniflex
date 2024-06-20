@@ -24,4 +24,4 @@ Este projeto foi desenvolvido como parte de um teste prático para a empresa Pro
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ThayBorges/iniflex-teste.git
+   git clone https://github.com/ThayBorges/Iniflex.git
