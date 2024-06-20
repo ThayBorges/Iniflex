@@ -23,5 +23,12 @@ Este projeto foi desenvolvido como parte de um teste prático para a empresa Pro
 ### Instruções de Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/ThayBorges/Iniflex.git
+
+- Clone com HTTPS
+git clone https://github.com/ThayBorges/Iniflex.git
+
+- Clone com SSH
+git clone git@github.com:ThayBorges/Iniflex.git
+
+#### Para mais detalhes sobre como clonar e executar o projeto, consulte as [instruções detalhadas](https://github.com/ThayBorges/Iniflex/issues/1#issue-2364907859) nas issues do repositório.
+
